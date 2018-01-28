@@ -2,37 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Spring 4 MVC - HelloWorld Index Page</title>
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<title>Mobile Number for Verificatione</title>
 
-<!-- jQuery library -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-
-<!-- Latest compiled JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-														<!--<script>
-														function validateForm() {
-														    var x = document.forms["myForm"]["mobileNo"].value;
-														    if (x == "") {
-														        alert("Enter Mobile Number");
-														        return false;
-														    }
-														}
-														</script>-->
 </head>
-<body bgcolor="pink" alink="red" vlink="blue">
+<body>
 <center>
-		<level> Mobile Number for Verification </level>
-		<div class="form-group">
-		<form class="form-inline" name="myForm" action="hello/otp?mobileNo=">
-		
-		<input class="form-control" type="text" name="mobileNo" placeholder="Enter Mobile Number" required> 
-		<input class="form-control btn-success" type="submit" value="SEND OTP"> 
-		
-		</form>
-		
-		</div>
+	dacdaccdcdscd
 	
 </center>
 </body>

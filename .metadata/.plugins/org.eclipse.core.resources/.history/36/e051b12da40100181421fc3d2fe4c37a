@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Spring 4 MVC - HelloWorld Index Page</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+
+</head>
+<body bgcolor="pink">
+<center>
+		<level> Mobile Number for Verification </level>
+		<div class="form-group">
+		<form class="form-inline" name="myForm" action="hello/otp?mobileNo=">
+		
+		<input class="form-control" type="text" name="mobileNo" placeholder="Enter Mobile Number" required> 
+		<input class="form-control btn-success" type="submit" value="SEND OTP"> 
+		
+		</form>
+		
+		</div>
+	
+</center>
+</body>
+</html>

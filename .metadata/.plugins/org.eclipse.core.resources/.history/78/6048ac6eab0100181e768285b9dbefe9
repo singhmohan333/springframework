@@ -1,0 +1,77 @@
+import java.security.SecureRandom;
+
+import java.util.ArrayList;
+
+import java.util.HashMap;
+
+import java.util.List;
+
+import java.util.Map;
+
+import org.apache.http.NameValuePair;
+import org.apache.http.message.BasicNameValuePair;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.MediaType;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.twilio.sdk.TwilioRestClient;
+import com.twilio.sdk.TwilioRestException;
+import com.twilio.sdk.resource.factory.MessageFactory;
+
+
+@Controller
+public class SMSClass {
+  
+ public static final String ACCOUNT_SID = "AC3723273d138cb1d36fbb41ec9ea00501";
+ public static final String AUTH_TOKEN = "c2578f843dcf713bd165007843d6411d";
+ 
+ // For Consumer Login 
+ @RequestMapping(value = "/", method = RequestMethod.GET)
+ public String login(@RequestParam(value = "mobileNo",required = true)String mobileNo) 
+ {
+  TwilioRestClient client = new TwilioRestClient(ACCOUNT_SID, AUTH_TOKEN);
+   
+  // generate OTP
+  SecureRandom random = new SecureRandom();
+     Integer i = random.nextInt((999999 - 100000) + 1);
+     String otp = i.toString();
+      reciveotp.setOtp(otp);
+               
+     // Send SMS via Twilio
+  List<NameValuePair> params = new ArrayList<NameValuePair>();
+  params.add(new BasicNameValuePair("mobileNo", "OTP is : "+otp));
+  params.add(new BasicNameValuePair("To", "+91" +  mobileNo));
+  
+  // From no needs to be pre verified with Twilio
+  params.add(new BasicNameValuePair("From", "+918053435008"));
+
+  MessageFactory messageFactory = client.getAccount().getMessageFactory();
+  com.twilio.sdk.resource.instance.Message message;
+  try 
+  {
+   message = messageFactory.create(params);   
+   return message.getStatus();
+  } 
+  catch (TwilioRestException e) 
+  {
+   return e.getMessage();
+  }
+ }
+ 
+ public ModelAndView showMessage(
+	@RequestParam(value = "mobile", required = false, defaultValue = "World") String name) {
+		ModelAndView mv = new ModelAndView("reciveotp");
+		mv.addObject("otp", otp);
+		mv.addObject("mobileNo", mobileNo);
+		return mv;
+		}
+
+  
+}

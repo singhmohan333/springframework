@@ -1021,3 +1021,251 @@ java.lang.NullPointerException: null
 2018-01-25 07:44:19,438 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
 2018-01-25 07:44:19,588 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-01-25 09:04:44,872 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-25 10:48:28,689 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-25 10:55:59,837 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 10:56:02,074 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 10:56:02,099 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 10:56:02,103 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 10:56:02,111 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 10:56:02,113 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 10:56:02,114 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 10:56:02,271 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 11:17:14,214 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 11:17:14,744 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 11:17:14,759 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 11:17:14,761 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 11:17:14,771 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 11:17:14,771 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 11:17:14,771 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 11:17:16,967 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 13:23:22,992 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 13:23:23,085 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 13:23:23,172 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 13:23:23,174 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 13:23:23,186 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 13:23:23,187 [Worker-61] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 13:23:23,187 [Worker-61] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 13:23:23,258 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 13:54:56,931 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 13:54:57,042 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 13:54:57,044 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 13:54:57,056 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 13:55:01,731 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 13:55:01,833 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 13:55:01,858 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 13:55:01,860 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 13:55:01,880 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 13:55:01,881 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 13:55:01,881 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 13:55:01,918 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 13:57:00,878 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-25 14:20:28,760 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 14:20:30,954 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 14:20:31,036 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 14:20:31,041 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 14:20:31,051 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 14:20:31,053 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 14:20:31,054 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 14:20:31,266 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 14:46:49,457 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 14:46:49,712 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 14:46:49,830 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 14:46:49,833 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 14:46:49,861 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 14:46:49,861 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 14:46:49,861 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 14:46:49,877 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 15:26:38,362 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 15:26:38,830 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 15:26:38,842 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 15:26:38,847 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 15:26:38,860 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 15:26:38,861 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 15:26:38,861 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 15:26:42,078 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 15:53:23,771 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-25 15:53:30,426 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:ApplicationMvc2:0.0.1-SNAPSHOT @ F:\iprosonic\HelloWorld\pom.xml.
+2018-01-25 15:53:34,235 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2018-01-25 15:53:34,236 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2018-01-25 15:53:34,237 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2018-01-25 15:53:34,501 [Worker-58] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure HelloWorld
+org.eclipse.m2e.wtp.MarkedException: Unable to configure HelloWorld
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:99) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:68) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:508) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:439) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:352) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:349) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:136) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:95) ~[na:na]
+	... 18 common frames omitted
+2018-01-25 15:53:35,549 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 15:53:35,557 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2018-01-25 15:54:24,745 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 15:54:24,763 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 15:54:24,767 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 15:54:24,782 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 15:54:24,783 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 15:54:24,783 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 15:54:24,802 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 15:55:20,448 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-25 16:00:12,144 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 16:00:13,127 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:00:13,183 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 16:00:13,187 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:00:13,197 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 16:00:13,199 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 16:00:13,200 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 16:00:13,230 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:01:38,718 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-25 16:08:16,681 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 16:08:17,863 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:08:17,896 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 16:08:17,900 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:08:17,926 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 16:08:17,928 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 16:08:17,929 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 16:08:17,993 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:21:06,946 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-25 16:31:14,915 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:HelloWorld:0.0.1-SNAPSHOT @ F:\iprosonic\HelloWorld\pom.xml.
+2018-01-25 16:31:18,209 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 16:31:20,104 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:31:20,231 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 16:31:20,236 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:31:20,250 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 16:31:20,251 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 16:31:20,252 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 16:31:20,262 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:34:20,819 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 16:34:20,966 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:34:20,982 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 16:34:20,982 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:34:21,010 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 16:34:21,010 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 16:34:21,010 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 16:34:21,032 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:49:26,896 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:HelloWorld:0.0.1-SNAPSHOT @ F:\iprosonic\HelloWorld\pom.xml.
+2018-01-25 16:49:28,302 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2018-01-25 16:49:28,304 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2018-01-25 16:49:28,321 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2018-01-25 16:49:28,782 [Worker-30] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure HelloWorld
+org.eclipse.m2e.wtp.MarkedException: Unable to configure HelloWorld
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:99) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:68) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:508) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:288) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$4.run(ProjectConfigurationManager.java:528) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:26) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.AbstractRunnable.call(AbstractRunnable.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.enableMavenNature(ProjectConfigurationManager.java:525) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.EnableNatureAction$1.run(EnableNatureAction.java:138) [org.eclipse.m2e.core.ui_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:136) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:95) ~[na:na]
+	... 18 common frames omitted
+2018-01-25 16:49:30,398 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-25 16:49:31,406 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:HelloWorld:0.0.1-SNAPSHOT @ F:\iprosonic\HelloWorld\pom.xml.
+2018-01-25 16:49:33,443 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2018-01-25 16:49:33,444 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2018-01-25 16:49:33,466 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2018-01-25 16:49:33,736 [Worker-30] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure HelloWorld
+org.eclipse.m2e.wtp.MarkedException: Unable to configure HelloWorld
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:99) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:68) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:508) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:439) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:352) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:349) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:335) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:317) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:306) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.EnableNatureAction$1.run(EnableNatureAction.java:141) [org.eclipse.m2e.core.ui_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267) ~[org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:136) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:95) ~[na:na]
+	... 20 common frames omitted
+2018-01-25 16:49:34,706 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 16:49:34,719 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2018-01-25 16:50:52,151 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-25 16:52:49,929 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:52:50,025 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 16:52:50,030 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 16:52:50,053 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 16:52:50,065 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 16:52:50,066 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 16:52:50,102 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 17:06:18,094 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 17:06:18,272 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 17:06:18,297 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 17:06:18,300 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 17:06:18,332 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 17:06:18,332 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 17:06:18,332 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 17:06:18,357 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 17:08:56,974 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-25 17:34:47,297 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-25 18:00:31,849 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorld
+2018-01-25 18:00:32,898 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 18:00:32,937 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-25 18:00:32,942 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 18:00:32,954 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\iprosonic\HelloWorld\src\test\resources
+2018-01-25 18:00:32,956 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2018-01-25 18:00:32,957 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2018-01-25 18:00:32,987 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-25 20:26:57,367 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

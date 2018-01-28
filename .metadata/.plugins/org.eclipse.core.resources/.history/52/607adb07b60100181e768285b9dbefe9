@@ -1,0 +1,43 @@
+import java.security.SecureRandom;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import org.apache.http.NameValuePair;
+import org.apache.http.message.BasicNameValuePair;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.MediaType;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.servlet.ModelAndView;
+import com.twilio.sdk.TwilioRestClient;
+import com.twilio.sdk.TwilioRestException;
+import com.twilio.sdk.resource.factory.MessageFactory;
+import com.twilio.sdk.resource.instance.Message;
+import org.springframework.boot.CommandLineRunner;
+
+@Controller
+@
+public class SMSClass implements CommandLineRunner {
+  
+ public static final String ACCOUNT_SID = "AC3723273d138cb1d36fbb41ec9ea00501";
+ public static final String AUTH_TOKEN = "c2578f843dcf713bd165007843d6411d";
+ 
+ 
+ public static void main(String arg[]) {
+ SpringApplication.run(SMSClass.classs, args);	 
+	 
+ }
+ 
+ public void run(String... arg) throws Exception{
+	 Twilio.init( ACCOUNT_SID, AUTH_TOKEN );
+	 
+	 Messsage message = Message.creator(new PhoneNumber("+917042075008"), new PhoneNumber("+918053435008"), "hlo").create();
+ }
+ 
+}
